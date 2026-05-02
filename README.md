@@ -1,11 +1,3 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hi,%20I'm%20pkch93&fontSize=70&animation=fadeIn" /></p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer;Problem+Solver;Running+Enthusiast" alt="Typing SVG" /></a>
-</p>
-
----
-
 ### 🚀 About Me
 안녕하세요! 기술로 문제를 해결하는 것을 즐기는 개발자입니다. 지속가능한 시스템 구축과 임펙트 있는 사용자 경험을 만드는 데 관심이 많습니다.
 
@@ -47,6 +39,6 @@
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-id"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dev.pkch@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/%EA%B2%BD%EC%B2%A0-%EB%B0%95-466b231a5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
